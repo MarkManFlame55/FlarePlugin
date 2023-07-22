@@ -1,0 +1,17 @@
+name: FlarePlugin
+version: $1.1
+main: org.markmanflame55.flareplugin.FlarePlugin
+api-version: 1.20
+commands:
+  menu:
+    description: Get the Operator Block Item (ONLY WITH OP)
+  credits:
+    description: Credits of the plugin
+  viewrecipe:
+    description: View Recipes
+  funny:
+    description: funny
+  flarespawn:
+    description: Spawn custom entities from Flare Plugin
+  flaregive:
+    description: Give a FlareItem to a player
